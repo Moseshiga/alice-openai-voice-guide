@@ -1,0 +1,4 @@
+{$DOMAIN} {
+    reverse_proxy webhook:8000
+}
+
